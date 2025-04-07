@@ -1,23 +1,38 @@
 {
-  "name": "❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
-  "description": "Powerful whatsapp bot made by sihilel",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "name": "QUEEN_THISHU-MD",
+  "description": "Powerful whatsapp bot made by King DE_VIL",
+  "logo": "https://ibb.co/mrKXJ2mL",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~3F8gzTKR#IW8dR79jcNsyv0frIALblbftx6_bJDiMyD7yh7tnAQQ",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://ibb.co/mrKXJ2mL",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "*╭─〔 𝗤𝘶𝘦𝘦𝘯ₓ* ```THISHU``` *-𝗠𝗗 V1.0*
+*╰──────────────*
+
+╭━━❰ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 ❱━━╮
+┃ ◈.🖥️ Bot Name: 𝗤𝗨𝗘𝗘𝗡 ```THISHU```-𝗠𝗗 V1.0
+┃ ◈. 🚀 Version: ```V1.0```
+┃ ◈. 😈 Owner: Chamod Mihiranga
+╰━━━━━━━━━━━━━━━━━╯
+ＡＬＩＶＥ ＮＯＷ......✅
+╭━━━━━━❰ ＯＷＮＥＲ 👑😈 ❱━━━━━━╮
+┃ ◈. 😈 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺: ᴄʜᴀᴍᴏᴅ ᴍɪʜɪʀᴀɴɢᴀ (𝗞ιηg ᗪ乇_𝗩𝗜𝗟
+━━━❮☎️❯━━━ 
+┏ ◈.𝘊𝘰𝘯𝘵𝘢𝘤𝘵
+┣ wa.me//+94761480836
+┣ queenthishu@gmail.com
+╰━━━━━━━━━━━━━━━━━╯",
       "required": true
     }   
 },
