@@ -57,42 +57,35 @@ cmd(
         }
       }
 
-      let madeMenu = `👋 *Hello  ${pushname}*
+      let madeMenu = `
+*╭─〔 𝗤𝘶𝘦𝘦𝘯ₓ* ```THISHU``` *-𝗠𝗗 V1.0*
+*╰──────────────*
+𝙃𝙀𝙇𝙇𝙊𝙒...👋
+𝚆𝙴𝙻𝙻𝙲𝙾𝙼𝙴 𝙼𝚈 𝙱𝙾𝚈...🫂🙏
+╭━━❰ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 ❱━━╮
+┃ ◈.🖥️ Bot Name: 𝗤𝗨𝗘𝗘𝗡 ```THISHU```-𝗠𝗗 V1.0
+┃ ◈. 🚀 Version: ```V1.0```
+┃ ◈. 😈 Owner: Chamod Mihiranga
+┃ ◈. 👤 User : ${pushname}
+╰━━━━━━━━━━━━━━━━━╯
+╭━━━❮❮ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃👻 ❯❯━━
+┣ .ᴀʟʟɪᴠᴇ
+┣ .ᴍᴇɴᴜ
+╰━━━━━━━━━━━━━━━━━━━━━━
 
-
-| *MAIN COMMANDS* |
-    ▫️.alive
-    ▫️.menu
-    ▫️.ai <text>
-    ▫️.system
-    ▫️.owner
-| *DOWNLOAD COMMANDS* |
-    ▫️.song <text>
-    ▫️.video <text>
-    ▫️.fb <link>
-| *GROUP COMMANDS* |
-${menu.group}
-| *OWNER COMMANDS* |
-    ▫️.restart
-    ▫️.update
-| *CONVERT COMMANDS* |
-    ▫️.sticker <reply img>
-    ▫️.img <reply sticker>
-    ▫️.tr <lang><text>
-    ▫️.tts <text>
-| *SEARCH COMMANDS* |
-${menu.search}
-
-
-🥶𝐌𝐚𝐝𝐞 𝐛𝐲 𝐒_𝐈_𝐇_𝐈_𝐋_𝐄_𝐋🥶
-
-> ROBIN MENU MSG
+╭━━━━━━❰ ＯＷＮＥＲ 👑😈 ❱━━━━━━╮
+┃ ◈. 😈 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺: ᴄʜᴀᴍᴏᴅ ᴍɪʜɪʀᴀɴɢᴀ (𝗞ιηg ᗪ乇_𝗩𝗜𝗟
+━━━❮☎️❯━━━ 
+┏ ◈.𝘊𝘰𝘯𝘵𝘢𝘤𝘵
+┣ +94761480836
+┣cmihiranga@gmail.com
+╰━━━━━━━━━━━━━━━━━╯
 `;
       await robin.sendMessage(
         from,
         {
           image: {
-            url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20menu.jpg",
+            url: "https://ibb.co/mrKXJ2mL",
           },
           caption: madeMenu,
         },
