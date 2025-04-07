@@ -93,7 +93,7 @@ async function connectToWA() {
         }
       });
       console.log("Queen-Thishu installed successful ✅");
-      console.log("Queen-Thishu connected to whatsapp ✅");
+      console.log("Queen-Thishu connected to whatsapp done ✅");
 
       let up = `Queen-Thishu connected successful ✅`;
       let up1 = `Hello King DE_VIL, I made bot successful`;
